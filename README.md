@@ -76,7 +76,3 @@ date | hour | small_in | big_in | small_out | big_out
 
 🚀 Future Improvements
 Add speed estimation per vehicle.
-
-Support for more vehicle types and custom datasets.
-
-📝
